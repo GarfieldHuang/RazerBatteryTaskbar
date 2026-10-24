@@ -155,6 +155,22 @@ const RazerProducts = {
         name: 'Razer Cobra Pro Wireless',
         transactionId: 0x1f
     },
+    0x00cc: {
+        name: 'Razer Basilisk V3 Pro 35K Wired',
+        transactionId: 0x1f
+    },
+    0x00cd: {
+        name: 'Razer Basilisk V3 Pro 35K Wireless',
+        transactionId: 0x1f
+    },
+    0x00d6: {
+        name: 'Razer Basilisk V3 Pro 35K Phantom Green Edition Wired',
+        transactionId: 0x1f
+    },
+    0x00d7: {
+        name: 'Razer Basilisk V3 Pro 35K Phantom Green Edition Wireless',
+        transactionId: 0x1f
+    },
 };
 
 function GetMessage(mouse) {

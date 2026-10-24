@@ -9,6 +9,7 @@ Much of this code is adapted from other works, credit below:
 ## Supported Hardware
 * Basilisk
 * Basilisk X HyperSpeed
+* Basilisk V3 Pro 35K (incl. Phantom Green Edition)
 * Naga v2 Pro (non-BT)
 * DeathAdder V2 Pro
 * DeathAdder V2 X Hyperspeed
